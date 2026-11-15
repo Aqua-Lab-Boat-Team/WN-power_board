@@ -3600,7 +3600,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "WaterNet26 Library:APC1608X100N"
+			(property "Footprint" "WaterNet26 Library:CAPC1608X100N"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -18174,11 +18174,10 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "WaterNet26 Library:ND_SRP1265A-220M"
+			(property "Footprint" "WaterNet26 Library:IND_SRP1265A-220M"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -78325,7 +78324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet26 Library:ND_SRP1265A-220M"
+		(property "Footprint" "WaterNet26 Library:IND_SRP1265A-220M"
 			(at 580.39 99.06 0)
 			(hide yes)
 			(show_name no)
